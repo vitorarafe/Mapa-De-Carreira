@@ -1,0 +1,13 @@
+.picture {
+    max-width: 150px;
+    /* Ajuste esse valor para o tamanho ideal */
+    height: auto;
+    /* Mantém a proporção da imagem */
+    border-radius: 8px;
+    /* Se quiser deixar os cantos arredondados */
+    display: block;
+    /* Para evitar espaços em branco extras */
+    margin: 0 auto;
+    /* Centraliza a imagem no container */
+    border: 8px solid #5A1D78;
+}
